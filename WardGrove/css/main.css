@@ -1783,10 +1783,6 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     margin-top: 6rem;
 }
 
-img {
-    margin: 10px;
-}
-
 
 /* ------------------------------------------------------------------- 
  * responsive:
@@ -2012,7 +2008,6 @@ img {
  * ------------------------------------------------------------------- */
 
 #gallery {
-    background: #FFFFFF;
     min-height: 800px;
     position: relative;
     padding: 0;
